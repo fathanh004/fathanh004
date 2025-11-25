@@ -2,7 +2,7 @@
 
 ## 🛠️ Languages & Tools
 Languages:
-Lua · C# · TypeScript (Rojo Helpers)
+Lua · C#
 
 Tools & Frameworks:
 Roblox Studio · Rojo · Knit · ProfileService · Rodux · Roact
