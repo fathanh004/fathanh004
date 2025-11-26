@@ -5,5 +5,5 @@ Languages:<br>
 Lua · C#<br><br>
 
 Tools & Frameworks:<br>
-Roblox Studio · Rojo · Knit · ProfileService · Rodux · Roact<br>
-Unity · Photon · Git · VSCode · Rider
+Roblox Studio : Rojo, Knit Framework, Roact & Rodux
+Unity : Photon, MVP-Framework
